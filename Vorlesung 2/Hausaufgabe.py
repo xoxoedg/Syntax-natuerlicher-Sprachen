@@ -34,3 +34,6 @@ grammar = nltk.CFG.fromstring(
 # parser = nltk.ChartParser(grammar)
 # for tree in parser.parse(sent.split()):
 #     tree.pretty_print(uncodelines=True)
+
+
+# Aufgabe 4
